@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá! 👋
+Bem-vindo(a) ao meu GitHub. Me chamo Lumah Pereira, Desenvolvedora Back-End com foco em **Spring Java** ✨ 
 
-<!--
-**lumahdev/lumahdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Possuo experiência profissional em **Django Python** + **PostgreSQL**.
+- Atualmente estou estudando telemetria, observabilidade e CI/CD.
+- Em busca da minha primeira colaboração em um projeto open-source.
+- Contate-me pelo [LinkedIn](www.linkedin.com/in/lumah-pereira/).
 
-Here are some ideas to get you started:
+## Alguns projetos legais:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Projeto                                  | Link                                                  | Tecnologias utilizadas                          |
+|------------------------------------------|-------------------------------------------------------|-------------------------------------------------|
+| Sistema de Pedidos + Mensageria          | [Link](https://github.com/lumahdev/shop-ms)           | Spring Java; Mongo; RabbitMQ; Docker            |
+| API Restful para Reserva de Salas        | [Link](https://github.com/lumahdev/reserva-salas-api) | Spring Java; PostgreSQL                         |
+| Machine Learning para Classificar Emails | [Link](https://github.com/lumahdev/email-analyzer)    | Flask Python; Bootstrap; jQuery; Vercel         |
+| Chatbot                                  | [Link](https://github.com/lumahdev/furia-fangirl)     | Flask Python; Typescript; React; SQLite, Vercel |
