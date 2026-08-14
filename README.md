@@ -11,7 +11,7 @@ Bem-vindo(a) ao meu GitHub. Me chamo Lumah Pereira, Desenvolvedora Full-Stack co
 | Projeto                                  | Link                                                  | Tecnologias utilizadas                          |
 |------------------------------------------|-------------------------------------------------------|-------------------------------------------------|
 | Sistema de Pedidos + Mensageria          | [Link](https://github.com/lumahdev/shop-ms)           | Spring Java; Mongo; RabbitMQ; Docker            |
-| API Restful para Reserva de Salas        | [Link](https://github.com/lumahdev/reserva-salas-api) | Spring Java; PostgreSQL                         |
+| API Restful para Reserva de Salas        | [Link](https://github.com/lumahdev/reserva-salas-api) | Spring Java; JUnit; PostgreSQL                  |
 | Machine Learning para Classificar Emails | [Link](https://github.com/lumahdev/email-analyzer)    | Flask Python; Bootstrap; jQuery; Vercel         |
 | Chatbot                                  | [Link](https://github.com/lumahdev/furia-fangirl)     | Flask Python; Typescript; React; SQLite, Vercel |
 | Rede social                              | [Link](https://github.com/lumahdev/social-mana)       | React; Node.js JavaScript; MySQL; Express;      |
