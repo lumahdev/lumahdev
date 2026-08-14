@@ -1,5 +1,5 @@
 # Olá! 👋
-Bem-vindo(a) ao meu GitHub. Me chamo Lumah Pereira, Desenvolvedora Back-End com foco em **Spring Java** ✨ 
+Bem-vindo(a) ao meu GitHub. Me chamo Lumah Pereira, Desenvolvedora Full-Stack com foco em **Spring Java** ✨ 
 
 - Possuo experiência profissional em **Django Python** + **PostgreSQL**.
 - Atualmente estou estudando telemetria, observabilidade e CI/CD.
