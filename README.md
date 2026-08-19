@@ -15,3 +15,4 @@ Bem-vindo(a) ao meu GitHub. Me chamo Lumah Pereira, Desenvolvedora Full-Stack co
 | Machine Learning para Classificar Emails | [Link](https://github.com/lumahdev/email-analyzer)    | Flask Python; Bootstrap; jQuery; Vercel         |
 | Chatbot                                  | [Link](https://github.com/lumahdev/furia-fangirl)     | Flask Python; Typescript; React; SQLite, Vercel |
 | Rede social                              | [Link](https://github.com/lumahdev/social-mana)       | React; Node.js JavaScript; MySQL; Express;      |
+| Loja virtual                             | [Link](https://github.com/lumahdev/meowverse)         | Bootstrap; jQuery; PHP; MySQL;                  |
