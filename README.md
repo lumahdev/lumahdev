@@ -1,7 +1,6 @@
 # Olá! 👋
 Bem-vindo(a) ao meu GitHub. Me chamo Lumah Pereira, Desenvolvedora Full-Stack com foco em **Spring Java** ✨ 
 
-- Possuo experiência profissional em **Django Python** + **PostgreSQL**.
 - Atualmente estou estudando telemetria, observabilidade e CI/CD.
 - Em busca da minha primeira colaboração em um projeto open-source.
 - Contate-me pelo [LinkedIn](www.linkedin.com/in/lumah-pereira/).
