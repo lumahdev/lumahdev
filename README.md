@@ -9,5 +9,6 @@ Bem-vindo(a) ao meu GitHub. Me chamo Lumah Pereira, Desenvolvedora Full-Stack co
 
 | Projeto                                                      | Link                                                        | Tecnologias utilizadas                          |
 |--------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------|
-| Classificador de E-mails com Machine Learning                | [Link](https://github.com/lumahdev/classificador-emails-ml) | Flask Python; Bootstrap; jQuery; Vercel         |
-| Chatbot                                                      | [Link](https://github.com/lumahdev/fani-chatbot)            | Flask Python; Typescript; React; SQLite, Vercel |
+| Classificador de E-mails com Machine Learning                | [Link](https://github.com/lumahdev/classificador-emails-ml) | NLTK; sklearn; Gemini API; jQuery; Bootstrap    |
+| Chatbot                                                      | [Link](https://github.com/lumahdev/fani-chatbot)            | Typescript; React; SQLite, OpenAI API           |
+| ETL + Dashboard de Taxas de Câmbio                           | [Link](https://github.com/lumahdev/etl-cambio)              | Power BI; Frankfurter API; MySQL                |
